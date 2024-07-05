@@ -1,7 +1,7 @@
-# C++ Questions from IGNOU(BCS-031) Exams (2017-2022)
+# C++ Programs from IGNOU(BCS-031) Exam
 
 ## Description
-This repository contains a collection of C++ exam questions (BCS-031) from Indira Gandhi National Open University (IGNOU) for the years 2017 to 2022. It is designed to help students prepare for exams by providing a comprehensive set of practice problems.
+This repository contains a collection of C++ exam questions with programs (BCS-031) from Indira Gandhi National Open University (IGNOU). It is designed to help students prepare for exams by providing a comprehensive set of practice problems.
 
 ## Usage
 To use this repository, simply browse through the files and access the exam questions in .CPP format. These questions can be used for practice and revision purposes.
