@@ -1,0 +1,88 @@
+1. What is encapsulation? How is it different from information hiding? Explain with the help of an example.
+
+2. Explain the concept of copy constructor with the help of an example and program.
+
+3. Explain how memory management is performed in C++.
+
+4. What is operator overloading? Briefly discuss the general rules of operator overloading.
+
+5. What is scope resolution operator? Explain its use with the help of a C++ program.
+
+6. What is a container in C++? List main types of containers in C++. Also, list some common member functions of the container class.
+
+7. What do you mean by polymorphism? How is runtime polymorphism different from compile-time polymorphism? Give examples to support the above difference.
+
+8. What is a virtual function? How does a virtual function relate to inheritance? What happens if we don't use the virtual function in inheritance? Explain with the help of an example and program in C++.
+
+9. What is message passing? Demonstrate the utility of message passing with the help of an example code in C++.
+
+10. What is a friend function? Explain two merits and two demerits of using friend functions with the help of an example.
+
+11. What is construction? Explain the advantages of construction with the help of an example.
+
+12. What is a function template? Write a function template SUM to add two numbers.
+
+13. List the merits and demerits of single inheritance over multiple inheritance.
+
+14. What is an inline function? Explain the advantages of an inline function with a suitable example.
+
+15. What is a template class? Explain the advantages of a template class.
+
+16. What is function overloading? How is it different from function overriding? Explain with an example program for each.
+
+17. Explain how function calls are matched in a C++ program in which functions are overloaded. Use an appropriate example program for your explanation.
+
+18. Write short notes on the following:
+    - (i) Copy constructor
+    - (ii) Access control specifier
+    - (iii) Stream manipulators
+    - (iv) Message passing
+    - (v) Scope resolution operator
+
+19. Compare structured programming with object-oriented programming. Give two advantages of both.
+
+20. How does a constructor differ from automatic initialization? Briefly discuss the term copy constructor.
+
+21. Compare early binding and late binding. Explain when to use which type of binding.
+
+22. What are exceptions in C++? How is exception handling done in C++? Briefly discuss the functioning of try, throw, and catch expressions with a suitable block diagram.
+
+23. Differentiate between C and C++. Give at least five differences.
+
+24. What is type conversion? What is the advantage of type conversion? Briefly discuss type casting and automatic type conversion.
+
+25. What is a destructor in C++? Discuss the naming conventions of a destructor. Do constructors and destructors have return types?
+
+26. What is inheritance? What are the advantages of inheritance? Explain with the help of an example.
+
+27. Compare multi-level and multiple inheritance in C++ with the help of an example.
+
+28. What is STL? Briefly discuss the components of STL.
+
+29. Discuss the taxonomy of C++ data types with the help of a suitable block diagram.
+
+30. What are breaking statements? Give the syntax of the following breaking statements:
+    - (i) break
+    - (ii) continue
+    - (iii) goto
+    - (iv) exit
+
+31. Discuss the role of "new" and "delete" as memory management operations.
+
+32. Explain the role of destructors in C++ memory management. Write a program in C++ to demonstrate the use of destructors.
+
+33. What is polymorphism? What are the advantages of polymorphism? Mention the types of polymorphism supported by C++.
+
+34. Write a program in C++ to define a class `Teacher` with a virtual function `Salary`. Derive the class `Assistant Professor` from the class `Teacher` and implement the salary function. Make necessary assumptions.
+
+35. What are containers? Explain the use of the list container class with the help of an example.
+
+36. What is the `this` pointer? Explain the significance of the `this` pointer with the help of an example program.
+
+37. How is the protected access specifier different from the public access specifier? Explain its usage for a subclass.
+
+38. Differentiate between early binding and late binding with an example of each.
+
+39. Define the term class. How are class and object related? Explain with an example.
+
+40. Differentiate between member functions and global functions with the help of an example.
